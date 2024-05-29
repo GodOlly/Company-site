@@ -1,0 +1,14 @@
+page-break-after: background-repeat: no-repeat;padding: 10 5;
+caption-side: bottom;ll
+.caption-side page-break-after.border: overflow: ;;
+text-justify: inter-cluster;10
+.grid-container{
+  display: grid;
+  boarder: solid red;
+  div{
+    border-block-start-color: red;
+  }
+}
+.class{
+  border-color: red;
+}
